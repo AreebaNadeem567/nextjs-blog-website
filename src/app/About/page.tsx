@@ -24,19 +24,16 @@ export default function About() {
           {/* Right Section: Text */}
           <div className="p-10 flex flex-col justify-center">
             <h1 className="text-3xl font-bold text-black-500 mb-6">
-              Discover Freshness at Vegefoods
+              Welcome to Vegefoods: Fresh, Local, and Healthy
             </h1>
             <p className="text-gray-600 mb-6">
-              Far far away, behind the word mountains, far from the countries
-              Vokalia and Consonantia, there live the blind texts. Separated they
-              live in Bookmarksgrove right at the coast of the Semantics, a large
-              language ocean.
+              At Vegefoods, we believe in providing the freshest, locally-sourced produce to our customers. Our commitment to quality ensures that every product you find with us is grown sustainably and harvested at its peak.
             </p>
             <p className="text-gray-600 mb-6">
-              But nothing the copy said could convince her and so it didn’t take
-              long until a few insidious Copy Writers ambushed her, made her drunk
-              with Longe and Parole and dragged her into their agency, where they
-              abused her for their.
+              Our mission is simple: to connect people with the healthiest food options available. From vibrant fruits and vegetables to a variety of organic selections, we strive to make fresh, nutritious food accessible to everyone.
+            </p>
+            <p className="text-gray-600 mb-6">
+              We work closely with local farmers, ensuring that our products are fresh, ethically sourced, and full of flavor. At Vegefoods, every meal is an opportunity to nourish your body and support sustainable agriculture.
             </p>
           </div>
         </div>
